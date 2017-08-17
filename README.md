@@ -6,4 +6,6 @@ Propongo estas listas para empezar, pero obviamente pudieran ser mas:
 
 - Deportes
 - Infantiles
+- Canales Premium
+- Por Pais (Argentina, Colombia, Mexico, Uruguay, Venezuela, etc)
 
