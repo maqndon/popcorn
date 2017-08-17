@@ -4,6 +4,6 @@ La idea es ir creando listas para facilitar el mantenimiento de las mismas cuand
 
 Propongo estas listas para empezar, pero obviamente pudieran ser mas:
 
-== Deportes
-== Infantiles
-== 
+- Deportes
+- Infantiles
+
