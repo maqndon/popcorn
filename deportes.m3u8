@@ -5,6 +5,10 @@
 ##
 #EXTINF:-1,EUROSPORTS
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/264.flv
+#EXTINF:-1,EUROSPORT 2
+http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/265.flv
 #EXTINF:-1,FOX SPORTS NEWS SD
 http://50.97.142.181:8080/foxsportt.m3u8
 #EXTINF:-1,FOX SPORTS 2
@@ -45,6 +49,12 @@ http://sstvb1.vdmscdn.com/beinsport-8-sd/index.m3u8
 http://sstvb1.vdmscdn.com/beinsport-9-sd/index.m3u8
 #EXTINF:-1,BEIN SPORT 10
 http://sstvb1.vdmscdn.com/beinsport-10-sd/index.m3u8
+#EXTINF:-1,BT SPORT 2
+http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/231.flv
+#EXTINF:-1,BT SPORT 3
+http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/404.flv
+#EXTINF:-1,SKY SPORT BUNDESLIGA
+http://www.q7t1.com:8000/live/dona/dona/1023.ts
 #EXTINF:-1,SPORT TV 1
 ##
 #EXTINF:-1,SPORT TV 2
@@ -53,6 +63,12 @@ http://sstvb1.vdmscdn.com/beinsport-10-sd/index.m3u8
 ##
 #EXTINF:-1,SPORT TV 4
 ##
+#EXTINF:-1,MLB NETWORK
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,NBA NETWORK
+http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/236.flv
+#EXTINF:-1,TODO DEPORTES
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 #EXTINF:-1,All Sports
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1,Real Madrid HD
