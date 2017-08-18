@@ -1,87 +1,130 @@
 #EXTM3U
+
 #EXTINF:-1,DIRECTV SPORTS
-##
+
+
 #EXTINF:-1,TYC SPORTS
-##
+
+
 #EXTINF:-1,EUROSPORTS
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8?tecnotv.info?iptv.m3u8
+
 #EXTINF:-1,EUROSPORT 1
 http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/264.flv
+
 #EXTINF:-1,EUROSPORT 2
 http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/265.flv
+
 #EXTINF:-1,FOX SPORTS NEWS SD
 http://50.97.142.181:8080/foxsportt.m3u8
+
 #EXTINF:-1,FOX SPORTS 2
 http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/527.flv
+
 #EXTINF:-1,FOX SPORTS 3
 http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/522.flv
+
 #EXTINF:-1,DEPORTV
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+
 #EXTINF:-1,SKY SPORTS 1
 http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/250.flv
+
 #EXTINF:-1,SKY SPORTS 2
 http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/251.flv
+
 #EXTINF:-1,SKY SPORTS 3
 http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/252.flv
+
 #EXTINF:-1,SKY SPORTS 4
 http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/253.flv
+
 #EXTINF:-1,SKY SPORTS 5
 http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/254.flv
+
 #EXTINF:-1,BEIN SPORT Ñ
 http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/243.flv
+
 #EXTINF:-1,BEIN SPORT 1
 http://sstvb1.vdmscdn.com/beinsport-1-sd/index.m3u8
+
 #EXTINF:-1,BEIN SPORT 2
 http://sstvb1.vdmscdn.com/beinsport-2-sd/index.m3u8
+
 #EXTINF:-1,BEIN SPORT 3
 http://sstvb1.vdmscdn.com/beinsport-3-sd/index.m3u8
+
 #EXTINF:-1,BEIN SPORT 4
 http://sstvb1.vdmscdn.com/beinsport-4-sd/index.m3u8
+
 #EXTINF:-1,BEIN SPORT 5
 http://sstvb1.vdmscdn.com/beinsport-5-sd/index.m3u8
+
 #EXTINF:-1,BEIN SPORT 6
 http://sstvb1.vdmscdn.com/beinsport-6-sd/index.m3u8
+
 #EXTINF:-1,BEIN SPORT 7
 http://sstvb1.vdmscdn.com/beinsport-7-sd/index.m3u8
+
 #EXTINF:-1,BEIN SPORT 8
 http://sstvb1.vdmscdn.com/beinsport-8-sd/index.m3u8
+
 #EXTINF:-1,BEIN SPORT 9
 http://sstvb1.vdmscdn.com/beinsport-9-sd/index.m3u8
+
 #EXTINF:-1,BEIN SPORT 10
 http://sstvb1.vdmscdn.com/beinsport-10-sd/index.m3u8
+
 #EXTINF:-1,BT SPORT 2
 http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/231.flv
+
 #EXTINF:-1,BT SPORT 3
 http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/404.flv
+
 #EXTINF:-1,SKY SPORT BUNDESLIGA
 http://www.q7t1.com:8000/live/dona/dona/1023.ts
+
 #EXTINF:-1,SPORT TV 1
-##
+
+
 #EXTINF:-1,SPORT TV 2
-##
+
+
 #EXTINF:-1,SPORT TV 3
-##
+
+
 #EXTINF:-1,SPORT TV 4
-##
+
+
 #EXTINF:-1,MLB NETWORK
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
 #EXTINF:-1,NBA NETWORK
 http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/236.flv
+
 #EXTINF:-1,TODO DEPORTES
 http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+
 #EXTINF:-1,All Sports
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
 #EXTINF:-1,Real Madrid HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+
 #EXTINF:-1,Chelsea TV
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+
 #EXTINF:-1,BAYER MUNCHEN
 http://klive-a.akamaihd.net/dc-1/live/hls/p/2090621/e/1_wxlke3iq/sd/10000/t/lhs4H8Mzuv07XU5Zdqb4sw/index-s40.m3u8
+
 #EXTINF:-1,MANCHESTER UNITED
 http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/118.flv
+
 #EXTINF:-1,BETIS TV
 http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
+
 #EXTINF:-1,SEVILLA FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
+
 #EXTINF:-1,BS TV
 http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/511.flv
