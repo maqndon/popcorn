@@ -25,6 +25,26 @@ http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/253.flv
 http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/254.flv
 #EXTINF:-1,BEIN SPORT Ñ
 http://23.237.22.2:8080/lstream5/106/14/be68dc71bdba115e9b30790158ae463a/243.flv
+#EXTINF:-1,BEIN SPORT 1
+http://sstvb1.vdmscdn.com/beinsport-1-sd/index.m3u8
+#EXTINF:-1,BEIN SPORT 2
+http://sstvb1.vdmscdn.com/beinsport-2-sd/index.m3u8
+#EXTINF:-1,BEIN SPORT 3
+http://sstvb1.vdmscdn.com/beinsport-3-sd/index.m3u8
+#EXTINF:-1,BEIN SPORT 4
+http://sstvb1.vdmscdn.com/beinsport-4-sd/index.m3u8
+#EXTINF:-1,BEIN SPORT 5
+http://sstvb1.vdmscdn.com/beinsport-5-sd/index.m3u8
+#EXTINF:-1,BEIN SPORT 6
+http://sstvb1.vdmscdn.com/beinsport-6-sd/index.m3u8
+#EXTINF:-1,BEIN SPORT 7
+http://sstvb1.vdmscdn.com/beinsport-7-sd/index.m3u8
+#EXTINF:-1,BEIN SPORT 8
+http://sstvb1.vdmscdn.com/beinsport-8-sd/index.m3u8
+#EXTINF:-1,BEIN SPORT 9
+http://sstvb1.vdmscdn.com/beinsport-9-sd/index.m3u8
+#EXTINF:-1,BEIN SPORT 10
+http://sstvb1.vdmscdn.com/beinsport-10-sd/index.m3u8
 #EXTINF:-1,SPORT TV 1
 ##
 #EXTINF:-1,SPORT TV 2
