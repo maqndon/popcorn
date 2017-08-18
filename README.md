@@ -9,4 +9,4 @@ Propongo estas listas para empezar, pero obviamente pudieran ser mas:
 - Canales Premium
 - Por Pais (Argentina, Colombia, Mexico, Uruguay, Venezuela, etc)
 
-En los archivos que se detecte la caida de un enlace (link) vamos a borrar el enlace del canal caido y colocamos "##" sin las comillas, hasta que se reemplacen por un enlace que este funcionando.
+En los archivos que se detecte la caida de un enlace (link) vamos a borrar el enlace del canal caido hasta que se reemplace por un enlace que este funcionando.
