@@ -20,7 +20,7 @@ http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:4-La_
 #EXTINF:-1,GUARDIANES DE LA BAHIA
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:3-Baywatch_Guardianes_de_la_bahia.mp4/playlist.m3u8
 
-#EXTINFO:-1,TRANSFORMER EL ULTIMO CABALLERO 2017
+#EXTINF:-1,TRANSFORMER EL ULTIMO CABALLERO 2017
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:1-Transformers_5_el_ultimo_caballero.mp4/playlist.m3u8
 
 #EXTINF:-1,UN GOLPE CON ESTILO 2017
@@ -29,10 +29,10 @@ http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:250-U
 #EXTINF:-1,SPIDERMAN COMING HOME 2017
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:0-Spider_Man_De_regreso_a_casa.mp4/playlist.m3u8
 
-#EXTINFO:-1,EL INSTITUTO 2017
+#EXTINF:-1,EL INSTITUTO 2017
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:254-The_Institute.mp4/playlist.m3u8
 
-#EXTIN:-1,DUNKERQUE 2017
+#EXTINF:-1,DUNKERQUE 2017
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:249-Dunkerque.mp4/playlist.m3u8
 
 #EXTINF:-1,EXTASIS 2017
@@ -83,7 +83,7 @@ http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:11-Pi
 #EXTINF:-1,LA CURA SINIESTRA 2017
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:12-La_cura_siniestra.mp4/playlist.m3u8
 
-#EXT:-1,LOGAN 2017
+#EXTINF:-1,LOGAN 2017
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:13-Logan.mp4/playlist.m3u8
 
 #EXTINF:-1,XXX REACTIVADO 2017
@@ -121,6 +121,7 @@ http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:25-El
 
 #EXTINF:-1,GHOST IN THE SHELL 2017
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:26-Ghost_in_the_Shell.mp4/playlist.m3u8
+
 #EXTINF:-1,BABY BOS 2017
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:28-Un_jefe_en_pañales.mp4/playlist.m3u8
 
@@ -154,7 +155,7 @@ http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:42-Lo
 #EXTINF:-1,MONSTER TRUCK 2017
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:44-Monster_Trucks.mp4/playlist.m3u8
 
-#EXTINFO:-1,ESPACIO ENTRE NOSOTROS 2016
+#EXTINF:-1,ESPACIO ENTRE NOSOTROS 2016
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:45-Un_espacio_entre_nosotros.mp4/playlist.m3u8
 
 #EXTINF:-1,CONTRAGOLPE 2016
@@ -184,10 +185,10 @@ http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:300-N
 #EXTINF:-1,JUEGO SIN REGLAS 2016
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:299-Nerve_Un_juego_sin_reglas.mp4/playlist.m3u8
 
-#EXTIN:-1,LOS BUSCA NOVIA 2016
+#EXTINF:-1,LOS BUSCA NOVIA 2016
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:298-Mike_y_Dave_Los_busca_novias.mp4/playlist.m3u8
 
-#EXTIN:-1,LA ÚLTIMA OLA 2016
+#EXTINF:-1,LA ÚLTIMA OLA 2016
 http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:297-La_ultima_ola.mp4/playlist.m3u8
 
 #EXTINF:-1,MASCOTAS 2016
