@@ -4,7 +4,8 @@ https://live72.vkuserlive.com/620007/live/0xhZ4rlAf6V2eKEU/playlist.m3u8
 
 #EXTINF:-1,TYC SPORTS
 https://playback.bcovlive.io/6e26479fc17b491f89153bc84cbcc580/sa-east-1/alive-trial-tyc_sports/playlist_dvr.m3u8
-#EXTINF:-1 type="stream" tvg-logo="https://k60.kn3.net/5/D/9/5/7/D/BB1.png" group-title="Deportes",TyC Sports
+
+#EXTINF:-1,TyC Sports
 http://190.57.234.164/V5/5/1.m3u8
 
 #EXTINF:-1,TCY SPORTS HD
