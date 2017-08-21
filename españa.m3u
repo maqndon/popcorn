@@ -1,0 +1,52 @@
+#EXTM3U
+
+#EXTINF:-1,Nat Geographic
+http://cdn.opencable.es/hls/live/nationalgeographic/index.m3u8
+
+#EXTINF:-1,Nat Geo Wild
+http://cdn.opencable.es/hls/live/natgeowild/index.m3u8
+
+#EXTINF:-1,Viajar
+http://cdn.opencable.es/hls/live/viajar/index.m3u8
+
+#EXTINF:-1,A&E
+http://cdn.opencable.es/hls/live/ae/index.m3u8
+
+#EXTINF:-1,DMAX
+http://cdn.opencable.es/hls/live/discoverymax/index.m3u8
+
+#EXTINF:-1,Disney XD
+http://cdn.opencable.es/hls/live/disneyxd/index.m3u8
+
+#EXTINF:-1,Disney JR
+http://cdn.opencable.es/hls/live/disneyjr/index.m3u8
+
+#EXTINF:-1,Nickelodeon
+http://cdn.opencable.es/hls/live/nickelodeon/index.m3u8
+
+#EXTINF:-1,Nick JR
+http://cdn.opencable.es/hls/live/nickjr/index.m3u8
+
+#EXTINF:-1,TCM
+http://cdn.opencable.es/hls/live/tcm/index.m3u8
+
+#EXTINF:-1,Dark
+http://cdn.opencable.es/hls/live/dark/index.m3u8
+
+#EXTINF:-1,Somos
+http://cdn.opencable.es/hls/live/somos/index.m3u8
+
+#EXTINF:-1,MTV Live HD
+http://cdn.opencable.es/hls/live/mtvlivehd/index.m3u8
+
+#EXTINF:-1,MTV Hits
+http://cdn.opencable.es/hls/live/mtvhits/index.m3u8
+
+#EXTINF:-1,Hit TV
+http://cdn.opencable.es/hls/live/hittv/index.m3u8
+
+#EXTINF:-1,Sol Musica
+http://cdn.opencable.es/hls/live/solmusica/index.m3u8
+
+#EXTINF:-1,VH1
+http://cdn.opencable.es/hls/live/vh1/index.m3u8
