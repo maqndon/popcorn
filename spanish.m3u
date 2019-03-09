@@ -98,6 +98,15 @@ http://23.237.22.137:80/livestream/natgeo.m3u8?token=Xgl6HYgL_Jso2MDY5NzBbw&expi
 #EXTINF:-1,Discovery Channel
 http://23.237.22.137:80/livestream/discoverychannel.m3u8?token=rLRP4Trai9SWEqj-FmGO0w&expires=1552143743
 
+#EXTINF:-1,Discovery Theater
+http://23.237.88.103:3105/livestream/discoverytheather.m3u8?token=q5zkqKlE4IwAxiRKUziRRQ&expires=1552147720
+
+#EXTINF:-1,Discovery Home
+http://23.237.22.137:80/livestream/discoveryhh.m3u8?token=C2VJSV_Yz-sn6GLoDGKIeQ&expires=1552147746
+
+#EXTINF:-1,Discovery TLC
+http://23.237.22.157:3105/livestream/discoverytlc.m3u8?token=jww3GcKD_fYyUcDwnqAHoQ&expires=1552147772
+
 #EXTINF:-1,Discovery Science
 http://23.237.88.103:3105/livestream/discoveryscience.m3u8?token=SU6H2fFUpRUccUUNJLsn2w&expires=1552144309
 
@@ -143,6 +152,9 @@ http://23.237.88.103:3105/livestream/nickjr.m3u8?token=qaXZmkW4jD8PLdqFzXsGzg&ex
 #EXTINF:-1,Tooncast
 http://23.237.22.157:3105/livestream/tooncast.m3u8?token=Y-JzmGCfl9Lr3WjOC4VQ-A&expires=1552144030
 
+#EXTINF:-1,Nat Geo Kids
+http://23.237.22.137:80/livestream/natgeokids.m3u8?token=-25TEa3wAm5AqgA6gBY5ug&expires=1552147921
+
 #EXTINF:-1,E! Entertainment
 http://23.237.88.103:3105/livestream/e.m3u8?token=x9gineJ6IVO9jjFugHv_6Q&expires=1552144081
 
@@ -182,21 +194,62 @@ http://23.237.22.137:80/livestream/cinecanal.m3u8?token=9azMsuoIDracaVyom6SWdg&e
 #EXTINF:-1,Studio Universal
 http://23.237.22.157:3105/livestream/studiouniversal.m3u8?token=TLnTbmIzm7qg_LxTR1hH5Q&expires=1552144698
 
-#EXTINF:-1 type="stream" tvg-logo="http://cablegratis.tv/logos/de-pelicula.png" group-title="Películas" ,De Película
+#EXTINF:-1 type="stream" tvg-logo="http://cablegratis.tv/logos/de-pelicula.png" group-title="Películas",De Película
 http://23.237.88.103:3105/livestream/depelicula.m3u8?token=o8gX8WLBSIv6XatbvV7i6Q&expires=1552144727
 
-#EXTINF:-1,RTL 102.5
-https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b2296000.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://23.237.22.157:3105/livestream/natgeowild.m3u8?token=BNll-2mm66ZLUv8QyOCiuQ&expires=1552147595
 
-#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/96.png" group-title="Nacional",El Nueve
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
-http://ar.watcha.live/ch5/hi.m3u8
+#EXTINF:-1,FXM
+http://23.237.22.137:80/livestream/fxm.m3u8?token=po3j4nZifIxVipjrInK30Q&expires=1552147632
 
-#EXTINF:-1 type="stream" tvg-logo="https://k61.kn3.net/5/4/2/C/1/C/D8D.png" group-title="Nacional" ,Telefe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
-http://ar.watcha.live/ch6/hi.m3u8
+#EXTINF:-1,TBS
+http://23.237.22.137:80/livestream/tbs.m3u8?token=ut2vDyMm92gNlh0MUiPm-Q&expires=1552147677
 
-#EXTINF:-1 type="stream" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/6.png" group-title="Nacional",El Trece
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
-http://ar.watcha.live/ch7/hi.m3u8
+#EXTINF:-1,El Financiero Bloomberg
+http://23.237.22.137:80/livestream/bloomberg.m3u8?token=4qZsoumlG89AbOtQ47caXg&expires=1552147792
 
+#EXTINF:-1,Canal 11
+http://23.237.22.137:80/livestream/canal11.m3u8?token=sKu2tgVcYF_Jh8Do1xuueA&expires=1552147821
+
+#EXTINF:-1,Venevision
+http://23.237.22.137:80/livestream/venevision.m3u8?token=9L7zRobOhr6IwKzjVioNBg&expires=1552147843
+
+#EXTINF:-1,TVC
+http://23.237.88.103:3105/livestream/tvc.m3u8?token=FINwcEmO-yjEXAexFiQZXw&expires=1552147866
+
+#EXTINF:-1,Foro TV
+http://23.237.22.157:3105/livestream/forotv.m3u8?token=dYD4Yjd3dqtnyVWDFj6y8w&expires=1552147954
+
+#EXTINF:-1,TL Novelas
+http://23.237.22.137:80/livestream/tlnovelas.m3u8?token=n9T1qVwKJ5oHf3BXbvnlWA&expires=1552148018
+
+#EXTINF:-1,Distro Comedia
+http://23.237.88.103:3105/livestream/distritocomedia.m3u8?token=06v-AXAT0Ym_TP2I7iJqRQ&expires=1552148057
+
+#EXTINF:-1,Canal Judicial
+http://23.237.22.157:3105/livestream/canaljudicial.m3u8?token=fa-UyRfZKb9BsSuBITGFsA&expires=1552148082
+
+#EXTINF:-1,Bandamax
+http://23.237.22.157:3105/livestream/bandamax.m3u8?token=wKMrHsSLQuh3YUVpAz-sfg&expires=1552148112
+
+#EXTINF:-1,Azteca Cinema
+http://23.237.22.157:3105/livestream/aztecacinema.m3u8?token=dkJ44FgU-Eu38N9HPlCgWg&expires=1552148138
+
+#EXTINF:-1,Imagen Television
+http://23.237.22.137:80/livestream/imagentelevision.m3u8?token=WKXnxE-yaVSXgjii0W0M0g&expires=1552148160
+
+#EXTINF:-1,EL 13
+http://23.237.22.137:80/livestream/eltrece.m3u8?token=2vvPGHEF0EJV_LbWP2IZiQ&expires=1552148199
+
+#EXTINF:-1,LIFETIME
+http://23.237.22.157:3105/livestream/lifetime.m3u8?token=2_KyfYtbfZKwX6fjTHgqRw&expires=1552148218
+
+#EXTINF:-1,Galavision
+http://23.237.22.137:80/livestream/galavision.m3u8?token=3NdZBsuhZn3p_tw_nU3e4Q&expires=1552148251
+
+#EXTINF:-1,Ritmoson Latino
+http://23.237.22.157:3105/livestream/ritmoson.m3u8?token=x8qxeRJde3HL5zAazxw-2g&expires=1552148278
+
+#EXTINF:-1,Showtime
+http://23.237.22.137:80/livestream/showtime.m3u8?token=tFqhVY69LAeozFr_2_ICpQ&expires=1552148303
