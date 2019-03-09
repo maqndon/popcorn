@@ -3,7 +3,7 @@
 http://23.237.88.103:3105/livestream/espn1latino.m3u8?token=PedPD89jFbSNi36c-FgLgA&expires=1552143317
 
 #EXTINF:-1,ESPN Deportes
-http://23.237.22.157:3105/livestream/espndeportes.m3u8?token=9iFzH4anAx3nticWiV2t8w&expires=1552142425
+http://23.237.22.157:3105/livestream/espndeportes.m3u8?token=hxVoRvfVsrIzg3Q5ORNObw&expires=1552170044
 
 #EXTINF:-1,ESPN+
 http://23.237.22.137:80/livestream/espnplus.m3u8?token=fWMnQssE92BJs48eRqhQYA&expires=1552143005
