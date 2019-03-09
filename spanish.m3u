@@ -2,6 +2,9 @@
 #EXTINF:-1,ESPN Deportes
 http://23.237.22.157:3105/livestream/espndeportes.m3u8?token=9iFzH4anAx3nticWiV2t8w&expires=1552142425
 
+#EXTINF:-1,ESPN+
+http://23.237.22.137:80/livestream/espnplus.m3u8?token=fWMnQssE92BJs48eRqhQYA&expires=1552143005
+
 #EXTINF:-1,TCY SPORTS HD
 http://23.237.88.103:3105/livestream/tycsports.m3u8?token=7pqyqUdlSWc8bIyKJj4vdQ&expires=1552134851
 
@@ -17,23 +20,22 @@ http://23.237.22.137:80/livestream/laligatv.m3u8?token=DiLIjXrWm1skvFB-_7aBsg&ex
 #EXTINF:-1,Canal de las Estrellas
 http://23.237.22.157:3105/livestream/estrellas.m3u8?token=n_-3O1gFYA1WI8haH_u2oA&expires=1552142624
 
-#EXTINF:-1,ZDF
-http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8
+#EXTINF:-1,Canal 5 México
+http://23.237.22.137:80/livestream/canal5mx.m3u8?token=pJogCL_A46djVWVbA-neTA&expires=1552142706
 
-#EXTINF:-1,LA  SEXTA HD
-http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,RCN
+http://23.237.22.157:3105/livestream/rcn.m3u8?token=CErl3EqaGMqG5Hay65MFZQ&expires=1552142789
 
-#EXTINF:-1,A3SERIES
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,FOX Sports Premium
+http://23.237.88.103:3105/livestream/foxsportspremium.m3u8?token=tOdpIXOZwRZfZ5MibzoiPA&expires=1552142880
 
-#EXTINF:-1,1 A3S ATRESERIES HD
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,CDF
+http://23.237.88.103:3105/livestream/cdfpremium.m3u8?token=af12_CQUlyxJzVcuMDqJZg&expires=1552142922
 
-#EXTINF:-1,1TELEPIN HS
-rtmp://wowza.telpin.com.ar/telpintv/ttv.stream_720p
+#EXTINF:-1,Azteca 7
+http://23.237.88.103:3105/livestream/azteca7.m3u8?token=VS_XF7Sh0J9bqj1dZqQeMw&expires=1552142961
 
-#EXTINF:-1,1POWER HD
-http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+
 
 #EXTINF:-1,A&E
 http://cdn66.verliga.club/hls/live/ae/index.m3u8
