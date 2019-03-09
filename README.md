@@ -10,3 +10,6 @@ Propongo estas listas para empezar, pero obviamente pudieran ser mas:
 - Por Pais (Argentina, Colombia, Mexico, Uruguay, Venezuela, etc)
 
 En los archivos que se detecte la caida de un enlace (link) vamos a borrar el enlace del canal caido hasta que se reemplace por un enlace que este funcionando.
+
+Lista de Prueba
+https://bit.ly/2ELy0dX
