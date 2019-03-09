@@ -334,7 +334,3 @@ http://23.237.88.103:3105/livestream/ingeniotv.m3u8?token=biU222gMZYrOQ_xESOTIWw
 
 #EXTINF:-1,Universo
 http://23.237.88.103:3105/livestream/universonbc.m3u8?token=POnz6M3CqAdoMDU-So-mKA&expires=1552169130
-
-#EXTINF:-1,Universo
-http://23.237.88.103:3105/livestream/universonbc.m3u8?token=POnz6M3CqAdoMDU-So-mKA&expires=1552169130
-
