@@ -173,32 +173,17 @@ http://23.237.88.103:3105/livestream/ae.m3u8?token=gPyyms7db_u78vG49Ph8Ow&expire
 #EXTINF:-1,Comedy Central
 http://23.237.22.157:3105/livestream/comedycentral.m3u8?token=NwF4GNZXzRMa6lFfuMse2A&expires=1552144607
 
-#EXTINF:-1,TV Record
-http://185.26.174.67:44444/play/a01b
+#EXTINF:-1,AXN
+http://23.237.88.103:3105/livestream/axn.m3u8?token=mHf2WcHJjopka-kXuJ0uBw&expires=1552144652
 
-#EXTINF:-1,Sport TV 2
-http://185.26.174.67:44444/play/a016
+#EXTINF:-1,Cinecanal
+http://23.237.22.137:80/livestream/cinecanal.m3u8?token=9azMsuoIDracaVyom6SWdg&expires=1552144675
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" group-title="ARGENTINA",Canal 26
-http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1,Studio Universal
+http://23.237.22.157:3105/livestream/studiouniversal.m3u8?token=TLnTbmIzm7qg_LxTR1hH5Q&expires=1552144698
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://insiderlatam.com/wp-content/uploads/2016/04/Europa-Europa-1.jpg" group-title="ARGENTINA",Europa Europa
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mincyt.gob.ar/adjuntos/imagenes/000/021/0000021142.jpg" group-title="ARGENTINA",Tec TV
-http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telpinteve.com.ar/imagenes/Canal2Logos-03.png" group-title="ARGENTINA",TelpinTV Canal 2
-http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/tlxtelemax.png" group-title="ARGENTINA",TLX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-
-#EXTINF:-1,AZTECA TRECE
-http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
-
-#EXTINF:-1,AZTECA 7
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=AZMX0068
+#EXTINF:-1 type="stream" tvg-logo="http://cablegratis.tv/logos/de-pelicula.png" group-title="Películas" ,De Película
+http://23.237.88.103:3105/livestream/depelicula.m3u8?token=o8gX8WLBSIv6XatbvV7i6Q&expires=1552144727
 
 #EXTINF:-1,RTL 102.5
 https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b2296000.m3u8
