@@ -2,14 +2,8 @@
 #EXTINF:-1,DIRECTV SPORTS
 https://live72.vkuserlive.com/620007/live/0xhZ4rlAf6V2eKEU/playlist.m3u8
 
-#EXTINF:-1,TYC SPORTS
-https://playback.bcovlive.io/6e26479fc17b491f89153bc84cbcc580/sa-east-1/alive-trial-tyc_sports/playlist_dvr.m3u8
-
-#EXTINF:-1,TyC Sports
-http://190.57.234.164/V5/5/1.m3u8
-
 #EXTINF:-1,TCY SPORTS HD
-http://basic.ioiptv.com:8000/live/iptvmanuel/manueliptv/4254.ts
+http://23.237.88.103:3105/livestream/tycsports.m3u8?token=7pqyqUdlSWc8bIyKJj4vdQ&expires=1552134851
 
 #EXTINF:-1,Real Madrid HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
