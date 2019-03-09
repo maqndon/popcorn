@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,ESPN
+http://23.237.88.103:3105/livestream/espn1latino.m3u8?token=PedPD89jFbSNi36c-FgLgA&expires=1552143317
+
 #EXTINF:-1,ESPN Deportes
 http://23.237.22.157:3105/livestream/espndeportes.m3u8?token=9iFzH4anAx3nticWiV2t8w&expires=1552142425
 
@@ -35,103 +38,110 @@ http://23.237.88.103:3105/livestream/cdfpremium.m3u8?token=af12_CQUlyxJzVcuMDqJZ
 #EXTINF:-1,Azteca 7
 http://23.237.88.103:3105/livestream/azteca7.m3u8?token=VS_XF7Sh0J9bqj1dZqQeMw&expires=1552142961
 
+#EXTINF:-1,DirectTV Sports
+http://23.237.22.137:80/livestream/directvsports.m3u8?token=ee32pJX2Abe1Tx43YuG0YQ&expires=1552143095
 
+#EXTINF:-1,DirectTV Sports 2
+http://23.237.88.103:3105/livestream/directvsports2.m3u8?token=rBuwDQDkOzya4tN7NjY48w&expires=1552143137
 
-#EXTINF:-1,A&E
-http://cdn66.verliga.club/hls/live/ae/index.m3u8
+#EXTINF:-1,Movistar F1
+http://23.237.88.103:3105/livestream/movistarf1.m3u8?token=JC-Y7LHwkFsPx6puahc_FA&expires=1552143218
 
-#EXTINF:-1,Chelsea TV
-http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:-1,Movistar Moto GP
+http://23.237.22.137:80/livestream/motogp.m3u8?token=Y7tmivLdTiUfIFwWde1nxg&expires=1552143244
 
 #EXTINF:-1,FOX
-http://185.26.174.67:44444/play/a010
+http://23.237.88.103:3105/livestream/fox.m3u8?token=qtT-3yisZBSK_XQqntaSzQ&expires=1552143267
 
-#EXTINF:-1,APPALCO
-http://185.26.174.67:44444/play/a00v
+#EXTINF:-1,TNT
+http://23.237.88.103:3105/livestream/tnt.m3u8?token=QsBw-rs9g56zbdNLnn72YA&expires=1552143294
 
-#EXTINF:-1,MTV Portugal
-http://185.26.174.67:44444/play/a01f
+#EXTINF:-1,Universal Channel
+http://23.237.88.103:3105/livestream/universalchannel.m3u8?token=t4tucNWLYiJDlwQ8Fp2AOA&expires=1552143368
 
-#EXTINF:-1,AXN WHITE
-http://185.26.174.67:44444/play/a00w
+#EXTINF:-1,Warner Channel
+http://23.237.22.137:80/livestream/warner.m3u8?token=q59RPf8Y2c3XYgCA12dF5w&expires=1552143404
 
-#EXTINF:-1,Globo
-http://185.26.174.67:44444/play/a018
+#EXTINF:-1,FX HD
+http://23.237.22.137:80/livestream/fx.m3u8?token=fSGrV3WmDI4Rjz4WEhi-aQ&expires=1552143425
 
-#EXTINF:-1,M. ACCI©N
-http://185.26.174.67:44444/play/a00r
+#EXTINF:-1,FOX Cinema
+http://23.237.22.157:3105/livestream/foxcinema.m3u8?token=xSsR8WgqXNXm5f-Dne3GZw&expires=1552143469
 
-#EXTINF:-1,HOLLYWOOD
-http://185.26.174.67:44444/play/a01n
+#EXTINF:-1,FOX Series
+http://23.237.88.103:3105/livestream/foxseries.m3u8?token=BIQ62DXzoW32s-GevLskYA&expires=1552143491
+
+#EXTINF:-1,FOX Movies
+http://23.237.22.137:80/livestream/foxmovies.m3u8?token=ddU9CzR4EVtSwSxSVKJ6Qg&expires=1552143540
+
+#EXTINF:-1,Space
+http://23.237.22.157:3105/livestream/space.m3u8?token=oh1kbA7xu8Y-v4vRoFuusw&expires=1552143594
+
+#EXTINF:-1,History
+http://23.237.22.157:3105/livestream/history.m3u8?token=hvPgxq0OcgZythX1rNclNw&expires=1552143620
+
+#EXTINF:-1,Golden Plus
+http://23.237.88.103:3105/livestream/goldenplus.m3u8?token=LBZZ_Qery1V0W-tQd_wfCw&expires=1552143649
+
+#EXTINF:-1,Golden Premier
+http://23.237.22.157:3105/livestream/goldenpremier.m3u8?token=g3DMsFu1oIly5pilKPbuLA&expires=1552143672
+
+#EXTINF:-1,Golden Edge
+http://23.237.22.157:3105/livestream/goldenedge.m3u8?token=-Msqxi5H_BFBKbhT2X5jaQ&expires=1552143691
+
+#EXTINF:-1,National Geographic
+http://23.237.22.137:80/livestream/natgeo.m3u8?token=Xgl6HYgL_Jso2MDY5NzBbw&expires=1552143717
 
 #EXTINF:-1,Discovery Channel
-http://185.26.174.67:44444/play/a01h
+http://23.237.22.137:80/livestream/discoverychannel.m3u8?token=rLRP4Trai9SWEqj-FmGO0w&expires=1552143743
 
-#EXTINF:-1,LA 1
-http://185.26.174.67:44444/play/a01s
+#EXTINF:-1,Discovery Turbo
+http://23.237.22.157:3105/livestream/discoveryturbo.m3u8?token=p8GGqmFR0LNgbSJlH7Xwyw&expires=1552144051
 
-#EXTINF:-1,Sport TV 4
-http://185.26.174.67:44444/play/a01c
+#EXTINF:-1,Unicable
+http://23.237.22.137:80/livestream/unicable.m3u8?token=GJ21Fu3hKUnlKzHNI3FbXw&expires=1552143782
 
-#EXTINF:-1,Sport TV 1
-http://185.26.174.67:44444/play/a01j
+#EXTINF:-1,HBO Family
+http://23.237.22.157:3105/livestream/hbofamily.m3u8?token=pqBK9s-thQpP02wKPvk73A&expires=1552143831
 
-#EXTINF:-1,TV Record
-http://185.26.174.67:44444/play/a017
+#EXTINF:-1,Animal Planet
+http://23.237.88.103:3105/livestream/animalplanet.m3u8?token=r861hQeVWQiDTfxzoOeBlA&expires=1552143870
 
-#EXTINF:-1,Hollywood
-http://185.26.174.67:44444/play/a01e
+#EXTINF:-1,Discovery Kids
+http://23.237.22.157:3105/livestream/discoverykids.m3u8?token=jeXSDWtc0yAz-rkpJlsEoA&expires=1552143891
 
-#EXTINF:-1,NOVA
-http://185.26.174.67:44444/play/a00y
+#EXTINF:-1,Cartoon Network
+http://23.237.88.103:3105/livestream/cartoon.m3u8?token=--zdWJTwZXn79Dp7cdfnPA&expires=1552143919
 
-#EXTINF:-1,FDF
-http://185.26.174.67:44444/play/a01u
+#EXTINF:-1,Boomerang
+http://23.237.22.137:80/livestream/boomerang.m3u8?token=sPQOPVeLJPXMym2UxZM9Ww&expires=1552143942
 
-#EXTINF:-1,Sport TV 3
-http://185.26.174.67:44444/play/a01a
+#EXTINF:-1,Disney Channel
+http://23.237.22.157:3105/livestream/disneychannel.m3u8?token=tgO2UaesjhqPeg6HuSZb_A&expires=1552144127
 
-#EXTINF:-1,NAT GEO WILD
-http://185.26.174.67:44444/play/a01p
+#EXTINF:-1,Disney Junior
+http://23.237.22.157:3105/livestream/disneyjunior.m3u8?token=0lwgRwUO2gGnUCYA_IsVlA&expires=1552143960
 
-#EXTINF:-1,CLAN TVE
-http://185.26.174.67:44444/play/a01q
+#EXTINF:-1,Disney XD
+http://23.237.22.157:3105/livestream/disneyxd.m3u8?token=wnpPeaBYOlEpykKgGlkD2Q&expires=1552143980
 
-#EXTINF:-1,BTV 1
-http://185.26.174.67:44444/play/a002
+#EXTINF:-1,Nickelodeon
+http://23.237.22.137:80/livestream/nick.m3u8?token=q2v3Yc3D1QtZCoFdVLvnCQ&expires=1552144007
 
-#EXTINF:-1,AXN
-http://185.26.174.67:44444/play/a00x
+#EXTINF:-1,Tooncast
+http://23.237.22.157:3105/livestream/tooncast.m3u8?token=Y-JzmGCfl9Lr3WjOC4VQ-A&expires=1552144030
 
-#EXTINF:-1,Odisseia
-http://185.26.174.67:44444/play/a01i
+#EXTINF:-1,E! Entertainment
+http://23.237.88.103:3105/livestream/e.m3u8?token=x9gineJ6IVO9jjFugHv_6Q&expires=1552144081
 
-#EXTINF:-1,DISNEY JR
-http://185.26.174.67:44444/play/a00q
+#EXTINF:-1,Multipremier
+http://23.237.88.103:3105/livestream/multipremier.m3u8?token=7jlOOy1iDNqsQTBCLFdJ-Q&expires=1552144105
 
-#EXTINF:-1,TELECINCO
-http://185.26.174.67:44444/play/a01l
+#EXTINF:-1,Cinemax
+http://23.237.88.103:3105/livestream/cinemax.m3u8?token=n_tpwTcPU2Q3yk_lu4W8dQ&expires=1552144157
 
-#EXTINF:-1,TVI 24
-http://185.26.174.67:44444/play/a019
-
-#EXTINF:-1,LA ***TA
-http://185.26.174.67:44444/play/a01m
-
-#EXTINF:-1,CUATRO
-http://185.26.174.67:44444/play/a01r
-
-#EXTINF:-1,M. COMEDIA
-http://185.26.174.67:44444/play/a00s
-
-#EXTINF:-1,LA 2
-http://185.26.174.67:44444/play/a01v
-
-#EXTINF:-1,IBERALIA TV
-http://185.26.174.67:44444/play/a00p
-
-#EXTINF:-1,M. DCINE
-http://185.26.174.67:44444/play/a00t
+#EXTINF:-1,America TV
+http://23.237.88.103:3105/livestream/americatv.m3u8?token=MUENpYkLDeXTsiAtzfCQsw&expires=1552144177
 
 #EXTINF:-1,Eurosport
 http://185.26.174.67:44444/play/a01d
