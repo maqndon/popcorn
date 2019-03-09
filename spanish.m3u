@@ -74,6 +74,9 @@ http://23.237.88.103:3105/livestream/foxseries.m3u8?token=BIQ62DXzoW32s-GevLskYA
 #EXTINF:-1,FOX Movies
 http://23.237.22.137:80/livestream/foxmovies.m3u8?token=ddU9CzR4EVtSwSxSVKJ6Qg&expires=1552143540
 
+#EXTINF:-1,FOX Life
+http://23.237.88.103:3105/livestream/foxlife.m3u8?token=qgdTPCmSaA9CrkTrGJRjyQ&expires=1552144397
+
 #EXTINF:-1,Space
 http://23.237.22.157:3105/livestream/space.m3u8?token=oh1kbA7xu8Y-v4vRoFuusw&expires=1552143594
 
@@ -95,8 +98,14 @@ http://23.237.22.137:80/livestream/natgeo.m3u8?token=Xgl6HYgL_Jso2MDY5NzBbw&expi
 #EXTINF:-1,Discovery Channel
 http://23.237.22.137:80/livestream/discoverychannel.m3u8?token=rLRP4Trai9SWEqj-FmGO0w&expires=1552143743
 
+#EXTINF:-1,Discovery Science
+http://23.237.88.103:3105/livestream/discoveryscience.m3u8?token=SU6H2fFUpRUccUUNJLsn2w&expires=1552144309
+
 #EXTINF:-1,Discovery Turbo
 http://23.237.22.157:3105/livestream/discoveryturbo.m3u8?token=p8GGqmFR0LNgbSJlH7Xwyw&expires=1552144051
+
+#EXTINF:-1,Investigation Discovery
+http://23.237.88.103:3105/livestream/investigationdiscovery.m3u8?token=wGUuCEFiVDSmm-7fb_ST-A&expires=1552144480
 
 #EXTINF:-1,Unicable
 http://23.237.22.137:80/livestream/unicable.m3u8?token=GJ21Fu3hKUnlKzHNI3FbXw&expires=1552143782
@@ -128,6 +137,9 @@ http://23.237.22.157:3105/livestream/disneyxd.m3u8?token=wnpPeaBYOlEpykKgGlkD2Q&
 #EXTINF:-1,Nickelodeon
 http://23.237.22.137:80/livestream/nick.m3u8?token=q2v3Yc3D1QtZCoFdVLvnCQ&expires=1552144007
 
+#EXTINF:-1,Nick Jr.
+http://23.237.88.103:3105/livestream/nickjr.m3u8?token=qaXZmkW4jD8PLdqFzXsGzg&expires=1552144346
+
 #EXTINF:-1,Tooncast
 http://23.237.22.157:3105/livestream/tooncast.m3u8?token=Y-JzmGCfl9Lr3WjOC4VQ-A&expires=1552144030
 
@@ -143,23 +155,23 @@ http://23.237.88.103:3105/livestream/cinemax.m3u8?token=n_tpwTcPU2Q3yk_lu4W8dQ&e
 #EXTINF:-1,America TV
 http://23.237.88.103:3105/livestream/americatv.m3u8?token=MUENpYkLDeXTsiAtzfCQsw&expires=1552144177
 
-#EXTINF:-1,Eurosport
-http://185.26.174.67:44444/play/a01d
+#EXTINF:-1,Canal Sony
+http://23.237.88.103:3105/livestream/sony.m3u8?token=eCtcI1dQ2C6gCY3t4JRJXw&expires=1552144289
 
-#EXTINF:-1,TNT
-http://185.26.174.67:44444/play/a01t
+#EXTINF:-1,AMC
+http://23.237.22.137:80/livestream/amc.m3u8?token=euQNUZh1iGg9zJ_MX1d1NQ&expires=1552144373
 
-#EXTINF:-1,C+ XTRA
-http://185.26.174.67:44444/play/a01o
+#EXTINF:-1,MTV
+http://23.237.22.157:3105/livestream/mtv.m3u8?token=s0i8u4F9VR3DLhQ1LIDhUw&expires=1552144431
 
-#EXTINF:-1,Canal de Histðria
-http://185.26.174.67:44444/play/a01g
+#EXTINF:-1,Paramount Channel
+http://23.237.22.157:3105/livestream/paramount.m3u8?token=XQIYVAeZ-mECsqcTf9oAeQ&expires=1552144453
 
-#EXTINF:-1,FOX LIFE
-http://185.26.174.67:44444/play/a00z
+#EXTINF:-1,A&E
+http://23.237.88.103:3105/livestream/ae.m3u8?token=gPyyms7db_u78vG49Ph8Ow&expires=1552144561
 
-#EXTINF:-1,M. XTRA
-http://185.26.174.67:44444/play/a01w
+#EXTINF:-1,Comedy Central
+http://23.237.22.157:3105/livestream/comedycentral.m3u8?token=NwF4GNZXzRMa6lFfuMse2A&expires=1552144607
 
 #EXTINF:-1,TV Record
 http://185.26.174.67:44444/play/a01b
