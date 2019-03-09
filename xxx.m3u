@@ -1,3 +1,14 @@
+#EXTM3U
 
-
+#EXTINF:-1,Venus
 http://23.237.88.103:3105/livestream/venus.m3u8?token=fxHmeXZmr6UFMvEXMhWalg&expires=1552169187
+
+#EXTINF:-1,Dorcel TV
+http://23.237.22.137:80/livestream/dorcel.m3u8?token=XfVepKQmXB-EI2xWlLtibw&expires=1552169261
+
+#EXTINF:-1,Playboy TV
+http://23.237.88.103:3105/livestream/playboy.m3u8?token=ej6ZYwZvqLq0CJMQVqT-_g&expires=1552169288
+
+#EXTINF:-1,Brazzers TV
+http://23.237.22.157:3105/livestream/brazzers.m3u8?token=fzm2T1CPkFPPBFuMmlbm_A&expires=1552169313
+
