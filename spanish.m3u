@@ -1,18 +1,21 @@
 #EXTM3U
-#EXTINF:-1,DIRECTV SPORTS
-https://live72.vkuserlive.com/620007/live/0xhZ4rlAf6V2eKEU/playlist.m3u8
+#EXTINF:-1,ESPN Deportes
+http://23.237.22.157:3105/livestream/espndeportes.m3u8?token=9iFzH4anAx3nticWiV2t8w&expires=1552142425
 
 #EXTINF:-1,TCY SPORTS HD
 http://23.237.88.103:3105/livestream/tycsports.m3u8?token=7pqyqUdlSWc8bIyKJj4vdQ&expires=1552134851
 
-#EXTINF:-1,Real Madrid HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1, Univision TDN
+http://23.237.88.103:3105/livestream/udn.m3u8?token=qMNMOhPQeUVRBG6C4KX-6g&expires=1552141970
 
-#EXTINF:-1,ANTENA 3
-http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1,Telemundo
+http://23.237.22.157:3105/livestream/telemundo.m3u8?token=NN0y3D2kpyr3wlPeI0JtLw&expires=1552142491
 
-#EXTINF:-1,EUROSPORTS
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1,La Liga
+http://23.237.22.137:80/livestream/laligatv.m3u8?token=DiLIjXrWm1skvFB-_7aBsg&expires=1552142586
+
+#EXTINF:-1,Canal de las Estrellas
+http://23.237.22.157:3105/livestream/estrellas.m3u8?token=n_-3O1gFYA1WI8haH_u2oA&expires=1552142624
 
 #EXTINF:-1,ZDF
 http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8
