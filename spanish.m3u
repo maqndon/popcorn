@@ -4,7 +4,13 @@
 http://23.237.88.103:3105/livestream/afizzionados-2279.ts
 
 #EXTINF:-1,ESPN
-http://23.237.88.103:3105/livestream/espn1latino.m3u8?token=PedPD89jFbSNi36c-FgLgA&expires=1552143317
+http://23.237.88.103:3105/livestream/espn1latino-2150.ts
+
+#EXTINF:-1,ESPN 2
+http://23.237.22.137/livestream/espn2latino-3040.ts
+
+#EXTINF:-1,ESPN 3
+http://23.237.22.157:3105/livestream/espn3latino-3046.ts
 
 #EXTINF:-1,ESPN Deportes
 http://23.237.22.157:3105/livestream/espndeportes-14470.ts
@@ -72,9 +78,6 @@ http://23.237.88.103:3105/livestream/cdfpremium-2350.ts
 #EXTINF:-1,RCN
 http://23.237.22.157:3105/livestream/rcn-2873.ts
 
-#EXTINF:-1,Telemundo
-http://23.237.22.157:3105/livestream/telemundo-2870.ts
-
 #EXTINF:-1,La Liga
 http://23.237.22.137:80/livestream/laligatv.m3u8?token=DiLIjXrWm1skvFB-_7aBsg&expires=1552142586
 
@@ -89,6 +92,18 @@ http://23.237.88.103:3105/livestream/movistarf1-10277.ts
 
 #EXTINF:-1,Movistar Moto GP
 http://23.237.22.137/livestream/motogp-595.ts
+
+#EXTINF:-1,Telemundo
+http://23.237.22.157:3105/livestream/telemundo-2870.ts
+
+#EXTINF:-1,Univision
+http://23.237.88.103:3105/livestream/univision-1021.ts
+
+#EXTINF:-1,Uninas
+http://23.237.22.137/livestream/unimas-1963.ts
+
+#EXTINF:-1,Unicable
+http://23.237.22.137/livestream/unicable-13761.ts
 
 #EXTINF:-1,Canal de las Estrellas
 http://23.237.22.157:3105/livestream/estrellas-13950.ts
@@ -111,53 +126,83 @@ http://23.237.88.103:3105/livestream/aztecamundo.m3u8?token=HZmYll59IDz2V09wRSQd
 #EXTINF:-1,Caracol
 http://23.237.22.157:3105/livestream/caracol-2922.ts
 
+#EXTINF:-1,HBO
+http://23.237.22.137/livestream/hbo-3081.ts
+
+#EXTINF:-1,HBO 2
+http://23.237.22.137/livestream/hbo2-3075.ts
+
+#EXTINF:-1,HBO Plus
+http://23.237.88.103:3105/livestream/hboplus-3093.ts
+
+#EXTINF:-1,HBO Family
+http://23.237.22.157:3105/livestream/hbofamily-5814.ts
+
+#EXTINF:-1,HBO Signature
+http://23.237.22.157:3105/livestream/hbosignature-3062.ts
+
 #EXTINF:-1,FOX
-http://23.237.88.103:3105/livestream/fox.m3u8?token=qtT-3yisZBSK_XQqntaSzQ&expires=1552143267
+http://23.237.88.103:3105/livestream/fox-4174.ts
 
 #EXTINF:-1,TNT
-http://23.237.88.103:3105/livestream/tnt.m3u8?token=QsBw-rs9g56zbdNLnn72YA&expires=1552143294
+http://23.237.88.103:3105/livestream/tnt-13697.ts
+
+#EXTINF:-1,TNT Series
+http://23.237.88.103:3105/livestream/tntseries-3123.ts
 
 #EXTINF:-1,Universal Channel
-http://23.237.88.103:3105/livestream/universalchannel.m3u8?token=t4tucNWLYiJDlwQ8Fp2AOA&expires=1552143368
+http://23.237.88.103:3105/livestream/universalchannel-3643.ts
 
 #EXTINF:-1,Warner Channel
-http://23.237.22.137:80/livestream/warner.m3u8?token=q59RPf8Y2c3XYgCA12dF5w&expires=1552143404
+http://23.237.22.137/livestream/warner-5814.ts
 
 #EXTINF:-1,FX HD
-http://23.237.22.137:80/livestream/fx.m3u8?token=fSGrV3WmDI4Rjz4WEhi-aQ&expires=1552143425
+http://23.237.22.137/livestream/fx-2179.ts
 
 #EXTINF:-1,FOX Cinema
-http://23.237.22.157:3105/livestream/foxcinema.m3u8?token=xSsR8WgqXNXm5f-Dne3GZw&expires=1552143469
+http://23.237.22.157:3105/livestream/foxcinema-1132.ts
+
+#EXTINF:-1,FOX Action
+http://23.237.22.157:3105/livestream/foxaction-3022.ts
 
 #EXTINF:-1,FOX Series
-http://23.237.88.103:3105/livestream/foxseries.m3u8?token=BIQ62DXzoW32s-GevLskYA&expires=1552143491
+http://23.237.88.103:3105/livestream/foxseries-8078.ts
+
+#EXTINF:-1,FOX Comedy
+http://23.237.22.157:3105/livestream/foxcomedy-3046.ts
 
 #EXTINF:-1,FOX Movies
-http://23.237.22.137:80/livestream/foxmovies.m3u8?token=ddU9CzR4EVtSwSxSVKJ6Qg&expires=1552143540
+http://23.237.22.137/livestream/foxmovies-11425.ts
+
+#EXTINF:-1,FOX Family
+http://23.237.22.137/livestream/foxfamily-3036.ts
+
+#EXTINF:-1,FOX Classics
+http://23.237.22.137/livestream/foxclassics-2708.ts
 
 #EXTINF:-1,FOX Life
-http://23.237.88.103:3105/livestream/foxlife.m3u8?token=qgdTPCmSaA9CrkTrGJRjyQ&expires=1552144397
+http://23.237.88.103:3105/livestream/foxlife-13822.ts
 
 #EXTINF:-1,Space
-http://23.237.22.157:3105/livestream/space.m3u8?token=oh1kbA7xu8Y-v4vRoFuusw&expires=1552143594
+http://23.237.22.157:3105/livestream/space-2411.ts
 
 #EXTINF:-1,History
-http://23.237.22.157:3105/livestream/history.m3u8?token=hvPgxq0OcgZythX1rNclNw&expires=1552143620
+http://23.237.22.157:3105/livestream/history-13773.ts
 
 #EXTINF:-1,Golden Plus
-http://23.237.88.103:3105/livestream/goldenplus.m3u8?token=LBZZ_Qery1V0W-tQd_wfCw&expires=1552143649
+http://23.237.88.103:3105/livestream/goldenplus-2378.ts
 
 #EXTINF:-1,Golden Premier
-http://23.237.22.157:3105/livestream/goldenpremier.m3u8?token=g3DMsFu1oIly5pilKPbuLA&expires=1552143672
+http://23.237.22.157:3105/livestream/goldenpremier-1084.ts
 
 #EXTINF:-1,Golden Edge
-http://23.237.22.157:3105/livestream/goldenedge.m3u8?token=-Msqxi5H_BFBKbhT2X5jaQ&expires=1552143691
+http://23.237.22.157:3105/livestream/goldenedge-4194.ts
 
 #EXTINF:-1,National Geographic
-http://23.237.22.137:80/livestream/natgeo.m3u8?token=Xgl6HYgL_Jso2MDY5NzBbw&expires=1552143717
+http://23.237.22.137/livestream/natgeo-4197.ts
 
 #EXTINF:-1,Discovery Channel
-http://23.237.22.137:80/livestream/discoverychannel.m3u8?token=rLRP4Trai9SWEqj-FmGO0w&expires=1552143743
+http://23.237.22.137/livestream/discoverychannel-5914.ts
 
 #EXTINF:-1,Discovery Theater
 http://23.237.88.103:3105/livestream/discoverytheather.m3u8?token=q5zkqKlE4IwAxiRKUziRRQ&expires=1552147720
@@ -169,82 +214,76 @@ http://23.237.22.137:80/livestream/discoveryhh.m3u8?token=C2VJSV_Yz-sn6GLoDGKIeQ
 http://23.237.22.157:3105/livestream/discoverytlc.m3u8?token=jww3GcKD_fYyUcDwnqAHoQ&expires=1552147772
 
 #EXTINF:-1,Discovery Science
-http://23.237.88.103:3105/livestream/discoveryscience.m3u8?token=SU6H2fFUpRUccUUNJLsn2w&expires=1552144309
+http://23.237.88.103:3105/livestream/discoveryscience-13792.ts
 
 #EXTINF:-1,Discovery Turbo
-http://23.237.22.157:3105/livestream/discoveryturbo.m3u8?token=p8GGqmFR0LNgbSJlH7Xwyw&expires=1552144051
+http://23.237.22.157:3105/livestream/discoveryturbo-12006.ts
 
 #EXTINF:-1,Discovery World
 http://23.237.88.103:3105/livestream/discoveryworld.m3u8?token=pj4hKhRZ8uygVtQmwgq2QA&expires=1552168615
 
 #EXTINF:-1,Investigation Discovery
-http://23.237.88.103:3105/livestream/investigationdiscovery.m3u8?token=wGUuCEFiVDSmm-7fb_ST-A&expires=1552144480
-
-#EXTINF:-1,Unicable
-http://23.237.22.137:80/livestream/unicable.m3u8?token=GJ21Fu3hKUnlKzHNI3FbXw&expires=1552143782
-
-#EXTINF:-1,HBO Family
-http://23.237.22.157:3105/livestream/hbofamily.m3u8?token=pqBK9s-thQpP02wKPvk73A&expires=1552143831
+http://23.237.88.103:3105/livestream/investigationdiscovery-13801.ts
 
 #EXTINF:-1,Animal Planet
-http://23.237.88.103:3105/livestream/animalplanet.m3u8?token=r861hQeVWQiDTfxzoOeBlA&expires=1552143870
+http://23.237.88.103:3105/livestream/animalplanet-13774.ts
 
 #EXTINF:-1,Discovery Kids
-http://23.237.22.157:3105/livestream/discoverykids.m3u8?token=jeXSDWtc0yAz-rkpJlsEoA&expires=1552143891
+http://23.237.22.157:3105/livestream/discoverykids-4240.ts
 
 #EXTINF:-1,Cartoon Network
-http://23.237.88.103:3105/livestream/cartoon.m3u8?token=--zdWJTwZXn79Dp7cdfnPA&expires=1552143919
+http://23.237.88.103:3105/livestream/cartoon-4246.ts
 
 #EXTINF:-1,Boomerang
-http://23.237.22.137:80/livestream/boomerang.m3u8?token=sPQOPVeLJPXMym2UxZM9Ww&expires=1552143942
+http://23.237.22.137/livestream/boomerang-13820.ts
 
 #EXTINF:-1,Disney Channel
-http://23.237.22.157:3105/livestream/disneychannel.m3u8?token=tgO2UaesjhqPeg6HuSZb_A&expires=1552144127
+http://23.237.22.157:3105/livestream/disneychannel-3793.ts
 
 #EXTINF:-1,Disney Junior
-http://23.237.22.157:3105/livestream/disneyjunior.m3u8?token=0lwgRwUO2gGnUCYA_IsVlA&expires=1552143960
+http://23.237.22.157:3105/livestream/disneyjunior-4251.ts
 
 #EXTINF:-1,Disney XD
-http://23.237.22.157:3105/livestream/disneyxd.m3u8?token=wnpPeaBYOlEpykKgGlkD2Q&expires=1552143980
+http://23.237.22.157:3105/livestream/disneyxd-13829.ts
 
 #EXTINF:-1,Nickelodeon
-http://23.237.22.137:80/livestream/nick.m3u8?token=q2v3Yc3D1QtZCoFdVLvnCQ&expires=1552144007
+http://23.237.22.137/livestream/nick-4238.ts
 
 #EXTINF:-1,Nick Jr.
-http://23.237.88.103:3105/livestream/nickjr.m3u8?token=qaXZmkW4jD8PLdqFzXsGzg&expires=1552144346
+http://23.237.88.103:3105/livestream/nickjr-37884.ts
 
 #EXTINF:-1,Tooncast
-http://23.237.22.157:3105/livestream/tooncast.m3u8?token=Y-JzmGCfl9Lr3WjOC4VQ-A&expires=1552144030
+http://23.237.22.157:3105/livestream/tooncast-13133.ts
 
 #EXTINF:-1,Nat Geo Kids
 http://23.237.22.137:80/livestream/natgeokids.m3u8?token=-25TEa3wAm5AqgA6gBY5ug&expires=1552147921
 
 #EXTINF:-1,E! Entertainment
-http://23.237.88.103:3105/livestream/e.m3u8?token=x9gineJ6IVO9jjFugHv_6Q&expires=1552144081
+http://23.237.88.103:3105/livestream/e-13808.ts
 
 #EXTINF:-1,Multipremier
-http://23.237.88.103:3105/livestream/multipremier.m3u8?token=7jlOOy1iDNqsQTBCLFdJ-Q&expires=1552144105
+http://23.237.88.103:3105/livestream/multipremier-7862.ts
 
 #EXTINF:-1,Cinemax
-http://23.237.88.103:3105/livestream/cinemax.m3u8?token=n_tpwTcPU2Q3yk_lu4W8dQ&expires=1552144157
+http://23.237.88.103:3105/livestream/cinemax-3104.ts
 
 #EXTINF:-1,America TV
-http://23.237.88.103:3105/livestream/americatv.m3u8?token=MUENpYkLDeXTsiAtzfCQsw&expires=1552144177
+http://23.237.88.103:3105/livestream/americatv-2097.ts
 
 #EXTINF:-1,Canal Sony
-http://23.237.88.103:3105/livestream/sony.m3u8?token=eCtcI1dQ2C6gCY3t4JRJXw&expires=1552144289
+http://23.237.88.103:3105/livestream/sony-11226.ts
 
 #EXTINF:-1,AMC
-http://23.237.22.137:80/livestream/amc.m3u8?token=euQNUZh1iGg9zJ_MX1d1NQ&expires=1552144373
+http://23.237.22.137/livestream/amc-688.ts
 
 #EXTINF:-1,Paramount Channel
-http://23.237.22.157:3105/livestream/paramount.m3u8?token=XQIYVAeZ-mECsqcTf9oAeQ&expires=1552144453
+http://23.237.22.157:3105/livestream/paramount-8094.ts
 
 #EXTINF:-1,A&E
-http://23.237.88.103:3105/livestream/ae.m3u8?token=gPyyms7db_u78vG49Ph8Ow&expires=1552144561
+http://23.237.88.103:3105/livestream/ae-4266.ts
 
 #EXTINF:-1,Comedy Central
-http://23.237.22.157:3105/livestream/comedycentral.m3u8?token=NwF4GNZXzRMa6lFfuMse2A&expires=1552144607
+http://23.237.22.157:3105/livestream/comedycentral-13809.ts
 
 #EXTINF:-1,AXN
 http://23.237.88.103:3105/livestream/axn.m3u8?token=mHf2WcHJjopka-kXuJ0uBw&expires=1552144652
@@ -313,7 +352,7 @@ http://23.237.22.157:3105/livestream/lifetime.m3u8?token=2_KyfYtbfZKwX6fjTHgqRw&
 http://23.237.22.137:80/livestream/galavision.m3u8?token=3NdZBsuhZn3p_tw_nU3e4Q&expires=1552148251
 
 #EXTINF:-1,MTV
-http://23.237.22.157:3105/livestream/mtv.m3u8?token=s0i8u4F9VR3DLhQ1LIDhUw&expires=1552144431
+http://23.237.22.157:3105/livestream/mtv-13655.ts
 
 #EXTINF:-1,MTV Live
 http://23.237.88.103:3105/livestream/mtvlive.m3u8?token=-bVeddB8klTGaJMwK2J_TQ&expires=1552168526
