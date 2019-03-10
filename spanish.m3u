@@ -1,42 +1,106 @@
 #EXTM3U
+
+#EXTINF:-1,Afizzionados
+http://23.237.88.103:3105/livestream/afizzionados-2279.ts
+
 #EXTINF:-1,ESPN
 http://23.237.88.103:3105/livestream/espn1latino.m3u8?token=PedPD89jFbSNi36c-FgLgA&expires=1552143317
 
 #EXTINF:-1,ESPN Deportes
-http://23.237.22.157:3105/livestream/espndeportes.m3u8?token=hxVoRvfVsrIzg3Q5ORNObw&expires=1552170044
+http://23.237.22.157:3105/livestream/espndeportes-14470.ts
 
 #EXTINF:-1,ESPN+
-http://23.237.22.137:80/livestream/espnplus.m3u8?token=fWMnQssE92BJs48eRqhQYA&expires=1552143005
+http://23.237.22.137/livestream/espnplus-5685.ts
 
-#EXTINF:-1,TCY SPORTS HD
-http://23.237.88.103:3105/livestream/tycsports.m3u8?token=7pqyqUdlSWc8bIyKJj4vdQ&expires=1552134851
+#EXTINF:-1,DirectTV Sports
+http://23.237.22.137/livestream/directvsports-9289.ts
 
-#EXTINF:-1, Univision TDN
-http://23.237.88.103:3105/livestream/udn.m3u8?token=qMNMOhPQeUVRBG6C4KX-6g&expires=1552141970
+#EXTINF:-1,DirectTV Sports 2
+http://23.237.88.103:3105/livestream/directvsports2-8930.ts
+
+#EXTINF:-1,DirectTV Sports +
+http://23.237.22.157:3105/livestream/directvsportsplus-2934.ts
+
+#EXTINF:-1,TyC SPORTS HD
+http://23.237.88.103:3105/livestream/tycsports-13023.ts
+
+#EXTINF:-1,Claro SPORTS
+http://23.237.88.103:3105/livestream/clarosports-2828.ts
+
+#EXTINF:-1,TVC Deportes
+http://23.237.22.157:3105/livestream/tvcdeportes-2878.ts
+
+#EXTINF:-1,Win Sports
+http://23.237.22.157:3105/livestream/winsports-1777.ts
+
+#EXTINF:-1,FOX Sports
+http://23.237.22.137/livestream/foxsports1latino-2879.ts
+
+#EXTINF:-1,FOX Sports 2
+http://23.237.88.103:3105/livestream/foxsports2latino-1987.ts
+
+#EXTINF:-1,FOX Sports 3
+http://23.237.22.137/livestream/foxsports3-2310.ts
+
+#EXTINF:-1,FOX Deportes
+http://23.237.22.137/livestream/foxsports1latino-2889.ts
+
+#EXTINF:-1,FOX Sports Premium
+http://23.237.88.103:3105/livestream/foxsportspremium-2391.ts
+
+#EXTINF:-1,Bein SPORTS
+http://23.237.88.103:3105/livestream/beinsports-2136.ts
+
+#EXTINF:-1,Bein SPORTS La Liga
+http://23.237.22.137/livestream/beinlaliga-2872.ts
+
+#EXTINF:-1,La Liga TV
+http://23.237.22.137/livestream/laligatv-3571.ts
+
+#EXTINF:-1,TNT SPORTS
+http://23.237.22.137/livestream/tntsports-2455.ts
+
+#EXTINF:-1,Univision TDN
+http://23.237.88.103:3105/livestream/udn-8131.ts
+
+#EXTINF:-1,TDN
+http://23.237.22.157:3105/livestream/tdn-1379.ts
+
+#EXTINF:-1,CDF
+http://23.237.88.103:3105/livestream/cdfpremium-2350.ts
+
+#EXTINF:-1,RCN
+http://23.237.22.157:3105/livestream/rcn-2873.ts
 
 #EXTINF:-1,Telemundo
-http://23.237.22.157:3105/livestream/telemundo.m3u8?token=NN0y3D2kpyr3wlPeI0JtLw&expires=1552142491
+http://23.237.22.157:3105/livestream/telemundo-2870.ts
 
 #EXTINF:-1,La Liga
 http://23.237.22.137:80/livestream/laligatv.m3u8?token=DiLIjXrWm1skvFB-_7aBsg&expires=1552142586
 
+#EXTINF:-1,Golperu
+http://23.237.22.137/livestream/golperu-1766.ts
+
+#EXTINF:-1,Gol TV
+http://23.237.22.157:3105/livestream/goltv-745.ts
+
+#EXTINF:-1,Movistar F1
+http://23.237.88.103:3105/livestream/movistarf1-10277.ts
+
+#EXTINF:-1,Movistar Moto GP
+http://23.237.22.137/livestream/motogp-595.ts
+
 #EXTINF:-1,Canal de las Estrellas
-http://23.237.22.157:3105/livestream/estrellas.m3u8?token=n_-3O1gFYA1WI8haH_u2oA&expires=1552142624
+http://23.237.22.157:3105/livestream/estrellas-13950.ts
 
 #EXTINF:-1,Canal 5 México
-http://23.237.22.137:80/livestream/canal5mx.m3u8?token=pJogCL_A46djVWVbA-neTA&expires=1552142706
-
-#EXTINF:-1,RCN
-http://23.237.22.157:3105/livestream/rcn.m3u8?token=CErl3EqaGMqG5Hay65MFZQ&expires=1552142789
-
-#EXTINF:-1,FOX Sports Premium
-http://23.237.88.103:3105/livestream/foxsportspremium.m3u8?token=tOdpIXOZwRZfZ5MibzoiPA&expires=1552142880
-
-#EXTINF:-1,CDF
-http://23.237.88.103:3105/livestream/cdfpremium.m3u8?token=af12_CQUlyxJzVcuMDqJZg&expires=1552142922
+http://23.237.22.137/livestream/canal5mx-13493.ts
 
 #EXTINF:-1,Azteca 7
-http://23.237.88.103:3105/livestream/azteca7.m3u8?token=VS_XF7Sh0J9bqj1dZqQeMw&expires=1552142961
+http://23.237.88.103:3105/livestream/azteca7-4041.ts
+
+#EXTINF:-1,Azteca 1
+http://23.237.88.103:3105/livestream/azteca1-2937.ts
 
 #EXTINF:-1,Azteca Corazon
 http://23.237.88.103:3105/livestream/aztecacorazon.m3u8?token=OJJAOxgNEGVr8CVYTeetUQ&expires=1552168757
@@ -44,17 +108,8 @@ http://23.237.88.103:3105/livestream/aztecacorazon.m3u8?token=OJJAOxgNEGVr8CVYTe
 #EXTINF:-1,Azteca Mundo
 http://23.237.88.103:3105/livestream/aztecamundo.m3u8?token=HZmYll59IDz2V09wRSQdXA&expires=1552169154
 
-#EXTINF:-1,DirectTV Sports
-http://23.237.22.137:80/livestream/directvsports.m3u8?token=ee32pJX2Abe1Tx43YuG0YQ&expires=1552143095
-
-#EXTINF:-1,DirectTV Sports 2
-http://23.237.88.103:3105/livestream/directvsports2.m3u8?token=rBuwDQDkOzya4tN7NjY48w&expires=1552143137
-
-#EXTINF:-1,Movistar F1
-http://23.237.88.103:3105/livestream/movistarf1.m3u8?token=JC-Y7LHwkFsPx6puahc_FA&expires=1552143218
-
-#EXTINF:-1,Movistar Moto GP
-http://23.237.22.137:80/livestream/motogp.m3u8?token=Y7tmivLdTiUfIFwWde1nxg&expires=1552143244
+#EXTINF:-1,Caracol
+http://23.237.22.157:3105/livestream/caracol-2922.ts
 
 #EXTINF:-1,FOX
 http://23.237.88.103:3105/livestream/fox.m3u8?token=qtT-3yisZBSK_XQqntaSzQ&expires=1552143267
